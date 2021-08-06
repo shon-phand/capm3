@@ -6,6 +6,6 @@ metadata:
   labels:
     airshipit.org/deploy-k8s: "false"
 releaseSeries:
-- major: 2
+- major: 0
   minor: 4
   contract: v1alpha3
